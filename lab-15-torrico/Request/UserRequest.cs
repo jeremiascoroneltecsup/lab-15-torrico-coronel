@@ -6,3 +6,5 @@ namespace lab_15_torrico.Request
         public string? Password { get; set; }
     }
 }
+
+
