@@ -1,0 +1,6 @@
+@lab_15_torrico_HostAddress = http://localhost:5168
+
+GET {{lab_15_torrico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

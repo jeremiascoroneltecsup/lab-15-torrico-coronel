@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-15-torrico", "lab-15-torrico\lab-15-torrico.csproj", "{E4F31571-F399-461E-9C6C-A1A345C30BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F31571-F399-461E-9C6C-A1A345C30BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F31571-F399-461E-9C6C-A1A345C30BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F31571-F399-461E-9C6C-A1A345C30BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F31571-F399-461E-9C6C-A1A345C30BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {010D8CFC-8C21-404B-9E1E-FC1B9160AD34}
+	EndGlobalSection
+EndGlobal
